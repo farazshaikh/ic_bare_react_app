@@ -10,9 +10,9 @@ steps described here.
 
 # Steps:
 
-## Create a dfx app
+## Create a dfx project
 
-Install dfx from
+Install dfx
 
 ```
 https://smartcontracts.org/docs/current/developer-docs/build/install-upgrade-remove/
@@ -77,7 +77,8 @@ babel.rc
 
 ## Configure Webpack.config.js
 
-Modify the existing webpack.config.js use the babel-loader for .js and .jsx files. Add similar section to specify the css loaders
+Modify the existing webpack.config.js to use the babel-loader for .js and .jsx files. Add similar section to specify the css loaders
+
 ```
 const path = require('path');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
@@ -109,7 +110,7 @@ module.exports = {
 
 ## Create React App
 
-Create a minimal React app by placing the following files in
+Create a minimal React app by placing the following files.
 
 ```
 ls ./src/ic_bare_react_app_assets/src/
