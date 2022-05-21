@@ -1,0 +1,384 @@
+Info 0    [00:48:58.084] Starting TS Server
+Info 1    [00:48:58.084] Version: 4.5.5
+Info 2    [00:48:58.084] Arguments: /usr/bin/node /home/faraz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --logFile /tmp/ic_bare_react_app/.log/tsserver.log --logVerbosity info --cancellationPipeName /run/user/1000/bbc3d7b339fca16fc5a02e384cb7c0fc/tscancellation*
+Info 3    [00:48:58.084] Platform: linux NodeVersion: 16 CaseSensitive: true
+Info 4    [00:48:58.084] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [00:48:58.091] Format host information updated
+Info 6    [00:48:58.095] Search path: /tmp/ic_bare_react_app
+Info 7    [00:48:58.095] For info: /tmp/ic_bare_react_app/package.json :: No config files found.
+Info 8    [00:48:58.097] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [00:48:58.970] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 872.8048090040684ms
+Info 10   [00:48:58.970] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [00:48:58.970] 	Files (167)
+
+Info 12   [00:48:58.970] -----------------------------------------------
+Info 13   [00:49:00.256] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 14   [00:49:01.080] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 823.3389259874821ms
+Info 15   [00:49:01.080] Project '/dev/null/inferredProject1*' (Inferred)
+Info 16   [00:49:01.080] 	Files (1238)
+
+Info 17   [00:49:01.080] -----------------------------------------------
+Info 18   [00:49:01.480] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [00:49:01.544] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true structureIsReused:: Not Elapsed: 64.14526301622391ms
+Info 20   [00:49:01.544] Project '/dev/null/inferredProject1*' (Inferred)
+Info 21   [00:49:01.544] 	Files (1231)
+
+Info 22   [00:49:01.544] -----------------------------------------------
+Info 23   [00:49:03.738] Before ensureProjectForOpenFiles:
+Info 24   [00:49:03.738] After ensureProjectForOpenFiles:
+Info 25   [00:49:03.739] got projects updated in background, updating diagnostics for /tmp/ic_bare_react_app/package.json
+Info 26   [00:49:09.115] Search path: /tmp/ic_bare_react_app
+Info 27   [00:49:09.115] For info: /tmp/ic_bare_react_app/webpack.config.js :: No config files found.
+Info 28   [00:49:09.116] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 29   [00:49:09.771] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 654.6713200211525ms
+Info 30   [00:49:09.771] Project '/dev/null/inferredProject2*' (Inferred)
+Info 31   [00:49:09.771] 	Files (261)
+
+Info 32   [00:49:09.771] -----------------------------------------------
+Info 33   [00:49:09.774] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 34   [00:49:10.077] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 302.768463999033ms
+Info 35   [00:49:10.077] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 36   [00:49:10.077] 	Files (7)
+
+Info 37   [00:49:10.077] -----------------------------------------------
+Info 38   [00:49:10.156] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 39   [00:49:10.621] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 465.43890100717545ms
+Info 40   [00:49:10.621] Project '/dev/null/inferredProject2*' (Inferred)
+Info 41   [00:49:10.621] 	Files (1234)
+
+Info 42   [00:49:10.621] -----------------------------------------------
+Info 43   [00:49:10.621] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 44   [00:49:10.621] 	Files (7)
+
+Info 45   [00:49:10.621] -----------------------------------------------
+Info 46   [00:49:12.656] Before ensureProjectForOpenFiles:
+Info 47   [00:49:12.656] After ensureProjectForOpenFiles:
+Info 48   [00:49:12.656] got projects updated in background, updating diagnostics for /tmp/ic_bare_react_app/package.json,/tmp/ic_bare_react_app/webpack.config.js
+Info 49   [00:49:17.080] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 50   [00:49:17.111] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 31.626075983047485ms
+Info 51   [00:49:17.111] Different program with same set of files
+Info 52   [00:49:19.169] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 53   [00:49:19.200] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 31.27624401450157ms
+Info 54   [00:49:19.200] Different program with same set of files
+Info 55   [00:49:19.201] getCompletionData: Get current token: 0.014037013053894043
+Info 56   [00:49:19.201] getCompletionData: Is inside comment: 0.004108011722564697
+Info 57   [00:49:19.201] getCompletionData: Get previous token: 0.026109009981155396
+Info 58   [00:49:19.201] getCompletionsAtPosition: isCompletionListBlocker: 0.17983999848365784
+Info 59   [00:49:19.217] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 60   [00:49:19.217] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 2 structureChanged: false structureIsReused:: Not Elapsed: 0.16398000717163086ms
+Info 61   [00:49:19.217] getExportInfoMap: cache miss or empty; calculating new results
+Info 62   [00:49:19.311] forEachExternalModuleToImportFrom autoImportProvider: 39.244932025671005
+Info 63   [00:49:19.311] getExportInfoMap: done in 95.32032197713852 ms
+Info 64   [00:49:19.379] collectAutoImports: resolved 25 module specifiers, plus 773 ambient and -3766 from cache
+Info 65   [00:49:19.379] collectAutoImports: response is complete
+Info 66   [00:49:19.379] collectAutoImports: 67.49392202496529
+Info 67   [00:49:19.379] getCompletionData: Semantic work: 177.38176199793816
+Info 68   [00:49:19.397] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 17.986472994089127
+Info 69   [00:49:19.527] getCompletionData: Get current token: 0.010821014642715454
+Info 70   [00:49:19.527] getCompletionData: Is inside comment: 0.0030759871006011963
+Info 71   [00:49:19.527] getCompletionData: Get previous token: 0.02117002010345459
+Info 72   [00:49:19.527] getCompletionsAtPosition: isCompletionListBlocker: 0.021932005882263184
+Info 73   [00:49:19.529] getExportInfoMap: cache hit
+Info 74   [00:49:19.560] collectAutoImports: resolved 0 module specifiers, plus 773 ambient and 318 from cache
+Info 75   [00:49:19.560] collectAutoImports: response is complete
+Info 76   [00:49:19.560] collectAutoImports: 30.110269010066986
+Info 77   [00:49:19.560] getCompletionData: Semantic work: 32.58445802330971
+Info 78   [00:49:19.573] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 13.37025299668312
+Info 79   [00:49:19.580] getCompletionData: Get current token: 0.00817599892616272
+Info 80   [00:49:19.580] getCompletionData: Is inside comment: 0.002884984016418457
+Info 81   [00:49:19.580] getCompletionData: Get previous token: 0.016882002353668213
+Info 82   [00:49:19.580] getCompletionsAtPosition: isCompletionListBlocker: 0.01181301474571228
+Info 83   [00:49:19.581] getExportInfoMap: cache hit
+Info 84   [00:49:19.600] collectAutoImports: resolved 0 module specifiers, plus 773 ambient and 318 from cache
+Info 85   [00:49:19.600] collectAutoImports: response is complete
+Info 86   [00:49:19.600] collectAutoImports: 18.756859004497528
+Info 87   [00:49:19.600] getCompletionData: Semantic work: 20.377112984657288
+Info 88   [00:49:19.610] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 9.979721993207932
+Info 89   [00:49:19.617] getCompletionData: Get current token: 0.00799599289894104
+Info 90   [00:49:19.617] getCompletionData: Is inside comment: 0.004469007253646851
+Info 91   [00:49:19.617] getCompletionData: Get previous token: 0.01912599802017212
+Info 92   [00:49:19.617] getCompletionsAtPosition: isCompletionListBlocker: 0.016269981861114502
+Info 93   [00:49:19.619] getExportInfoMap: cache hit
+Info 94   [00:49:19.637] collectAutoImports: resolved 0 module specifiers, plus 773 ambient and 318 from cache
+Info 95   [00:49:19.637] collectAutoImports: response is complete
+Info 96   [00:49:19.637] collectAutoImports: 18.229501992464066
+Info 97   [00:49:19.637] getCompletionData: Semantic work: 19.966497004032135
+Info 98   [00:49:19.647] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 8.16728401184082
+Info 99   [00:49:45.180] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 100  [00:49:45.224] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 43.71748799085617ms
+Info 101  [00:49:45.224] Different program with same set of files
+Info 102  [00:49:45.471] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 103  [00:49:45.503] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 31.273759990930557ms
+Info 104  [00:49:45.503] Different program with same set of files
+Info 105  [00:49:45.673] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 106  [00:49:45.706] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 33.068213015794754ms
+Info 107  [00:49:45.707] Different program with same set of files
+Info 108  [00:49:46.406] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 109  [00:49:46.430] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 23.674400985240936ms
+Info 110  [00:49:46.430] Different program with same set of files
+Info 111  [00:49:46.791] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 112  [00:49:46.820] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 28.66083002090454ms
+Info 113  [00:49:46.820] Different program with same set of files
+Info 114  [00:49:51.292] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 115  [00:49:51.323] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 30.728417992591858ms
+Info 116  [00:49:51.323] Different program with same set of files
+Info 117  [00:49:51.698] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 118  [00:49:51.723] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 11 structureChanged: false structureIsReused:: Completely Elapsed: 24.545717984437943ms
+Info 119  [00:49:51.723] Different program with same set of files
+Info 120  [00:50:06.871] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 121  [00:50:06.899] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 12 structureChanged: false structureIsReused:: Completely Elapsed: 27.9378260076046ms
+Info 122  [00:50:06.899] Different program with same set of files
+Info 123  [00:50:08.763] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 124  [00:50:08.790] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 13 structureChanged: false structureIsReused:: Completely Elapsed: 26.473958998918533ms
+Info 125  [00:50:08.790] Different program with same set of files
+Info 126  [00:50:15.026] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 127  [00:50:15.054] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 14 structureChanged: false structureIsReused:: Completely Elapsed: 28.141539990901947ms
+Info 128  [00:50:15.054] Different program with same set of files
+Info 129  [00:50:15.789] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 130  [00:50:15.817] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 15 structureChanged: false structureIsReused:: Completely Elapsed: 27.86862400174141ms
+Info 131  [00:50:15.817] Different program with same set of files
+Info 132  [00:50:16.181] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 133  [00:50:16.207] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 16 structureChanged: false structureIsReused:: Completely Elapsed: 25.933185011148453ms
+Info 134  [00:50:16.207] Different program with same set of files
+Info 135  [00:50:22.534] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 136  [00:50:22.566] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 17 structureChanged: false structureIsReused:: Completely Elapsed: 31.594024002552032ms
+Info 137  [00:50:22.566] Different program with same set of files
+Info 138  [00:50:28.190] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 139  [00:50:28.215] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 18 structureChanged: false structureIsReused:: Completely Elapsed: 24.35358601808548ms
+Info 140  [00:50:28.215] Different program with same set of files
+Info 141  [00:50:30.483] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 142  [00:50:30.508] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 19 structureChanged: false structureIsReused:: Completely Elapsed: 25.05035299062729ms
+Info 143  [00:50:30.508] Different program with same set of files
+Info 144  [00:50:33.525] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 145  [00:50:33.549] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 20 structureChanged: false structureIsReused:: Completely Elapsed: 24.03047400712967ms
+Info 146  [00:50:33.549] Different program with same set of files
+Info 147  [00:50:34.022] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 148  [00:50:34.049] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 21 structureChanged: false structureIsReused:: Completely Elapsed: 27.82072800397873ms
+Info 149  [00:50:34.050] Different program with same set of files
+Info 150  [00:50:37.715] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 151  [00:50:37.738] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 22 structureChanged: false structureIsReused:: Completely Elapsed: 22.974567025899887ms
+Info 152  [00:50:37.738] Different program with same set of files
+Info 153  [00:50:39.109] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 154  [00:50:39.132] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 23 structureChanged: false structureIsReused:: Completely Elapsed: 22.932034999132156ms
+Info 155  [00:50:39.133] Different program with same set of files
+Info 156  [00:50:40.103] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 157  [00:50:40.129] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 24 structureChanged: false structureIsReused:: Completely Elapsed: 25.548331022262573ms
+Info 158  [00:50:40.129] Different program with same set of files
+Info 159  [00:50:42.649] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 160  [00:50:42.671] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 25 structureChanged: false structureIsReused:: Completely Elapsed: 22.040059983730316ms
+Info 161  [00:50:42.671] Different program with same set of files
+Info 162  [00:50:43.035] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 163  [00:50:43.059] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 26 structureChanged: false structureIsReused:: Completely Elapsed: 24.139638006687164ms
+Info 164  [00:50:43.060] Different program with same set of files
+Info 165  [00:50:43.064] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 166  [00:50:43.082] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 27 structureChanged: false structureIsReused:: Completely Elapsed: 18.25432398915291ms
+Info 167  [00:50:43.083] Different program with same set of files
+Info 168  [00:50:43.483] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 169  [00:50:43.508] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 28 structureChanged: false structureIsReused:: Completely Elapsed: 24.717629998922348ms
+Info 170  [00:50:43.508] Different program with same set of files
+Info 171  [00:50:43.511] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 172  [00:50:43.534] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 29 structureChanged: false structureIsReused:: Completely Elapsed: 23.461297005414963ms
+Info 173  [00:50:43.534] Different program with same set of files
+Info 174  [00:50:44.123] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 175  [00:50:44.149] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 30 structureChanged: false structureIsReused:: Completely Elapsed: 26.24702000617981ms
+Info 176  [00:50:44.149] Different program with same set of files
+Info 177  [00:52:23.243] FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 178  [00:52:23.243] Elapsed:: 0.5082400143146515ms FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 179  [00:52:23.586] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 180  [00:52:23.588] Elapsed:: 1.2313770055770874ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 181  [00:52:23.588] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 182  [00:52:23.588] Elapsed:: 0.1151379942893982ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 183  [00:52:23.588] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 184  [00:52:23.588] Elapsed:: 0.009618997573852539ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 185  [00:52:23.588] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 186  [00:52:23.588] Elapsed:: 0.007945001125335693ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 187  [00:52:24.342] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 188  [00:52:24.473] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true structureIsReused:: Not Elapsed: 131.25526002049446ms
+Info 189  [00:52:24.474] Project '/dev/null/inferredProject1*' (Inferred)
+Info 190  [00:52:24.474] 	Files (1239)
+
+Info 191  [00:52:24.474] -----------------------------------------------
+Info 192  [00:52:24.479] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 193  [00:52:24.598] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 31 structureChanged: true structureIsReused:: Not Elapsed: 119.48994201421738ms
+Info 194  [00:52:24.598] Project '/dev/null/inferredProject2*' (Inferred)
+Info 195  [00:52:24.598] 	Files (1242)
+
+Info 196  [00:52:24.598] -----------------------------------------------
+Info 197  [00:52:24.598] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 198  [00:52:24.598] 	Files (7)
+
+Info 199  [00:52:24.598] -----------------------------------------------
+Info 200  [00:52:24.853] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 201  [00:52:24.858] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 3 structureChanged: true structureIsReused:: SafeModules Elapsed: 4.554764986038208ms
+Info 202  [00:52:24.858] Different program with same set of files
+Info 203  [00:52:25.042] DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 204  [00:52:25.042] Elapsed:: 0.049743980169296265ms DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 205  [00:52:25.042] DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 206  [00:52:25.042] Elapsed:: 0.01438799500465393ms DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 207  [00:52:26.299] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 208  [00:52:26.411] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: true structureIsReused:: SafeModules Elapsed: 112.28929600119591ms
+Info 209  [00:52:26.411] Different program with same set of files
+Info 210  [00:52:26.413] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 211  [00:52:26.525] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 32 structureChanged: true structureIsReused:: SafeModules Elapsed: 111.97043401002884ms
+Info 212  [00:52:26.525] Different program with same set of files
+Info 213  [00:52:28.552] Before ensureProjectForOpenFiles:
+Info 214  [00:52:28.553] After ensureProjectForOpenFiles:
+Info 215  [00:52:28.553] got projects updated in background, updating diagnostics for /tmp/ic_bare_react_app/package.json,/tmp/ic_bare_react_app/webpack.config.js
+Info 216  [00:57:59.563] FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 217  [00:57:59.563] Elapsed:: 0.1741589903831482ms FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 218  [00:57:59.709] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 219  [00:57:59.711] Elapsed:: 1.920965999364853ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 220  [00:57:59.711] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 221  [00:57:59.711] Elapsed:: 0.02194201946258545ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 222  [00:57:59.711] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 223  [00:57:59.711] Elapsed:: 0.007303982973098755ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 224  [00:57:59.711] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 225  [00:57:59.711] Elapsed:: 0.007153987884521484ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 226  [00:58:00.966] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 227  [00:58:01.070] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: true structureIsReused:: SafeModules Elapsed: 103.27990999817848ms
+Info 228  [00:58:01.070] Project '/dev/null/inferredProject1*' (Inferred)
+Info 229  [00:58:01.070] 	Files (1238)
+
+Info 230  [00:58:01.070] -----------------------------------------------
+Info 231  [00:58:01.073] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 232  [00:58:01.159] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 33 structureChanged: true structureIsReused:: SafeModules Elapsed: 86.53972297906876ms
+Info 233  [00:58:01.159] Project '/dev/null/inferredProject2*' (Inferred)
+Info 234  [00:58:01.159] 	Files (1241)
+
+Info 235  [00:58:01.159] -----------------------------------------------
+Info 236  [00:58:01.159] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 237  [00:58:01.159] 	Files (7)
+
+Info 238  [00:58:01.159] -----------------------------------------------
+Info 239  [00:58:01.161] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 240  [00:58:01.164] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 4 structureChanged: true structureIsReused:: SafeModules Elapsed: 2.9654569923877716ms
+Info 241  [00:58:01.164] Different program with same set of files
+Info 242  [00:58:01.481] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 243  [00:58:01.566] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: true structureIsReused:: Not Elapsed: 84.74310302734375ms
+Info 244  [00:58:01.566] Project '/dev/null/inferredProject1*' (Inferred)
+Info 245  [00:58:01.566] 	Files (1284)
+
+Info 246  [00:58:01.566] -----------------------------------------------
+Info 247  [00:58:01.568] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 248  [00:58:01.636] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 34 structureChanged: true structureIsReused:: Not Elapsed: 68.27267602086067ms
+Info 249  [00:58:01.637] Project '/dev/null/inferredProject2*' (Inferred)
+Info 250  [00:58:01.637] 	Files (1287)
+
+Info 251  [00:58:01.637] -----------------------------------------------
+Info 252  [00:58:01.637] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 253  [00:58:01.637] 	Files (7)
+
+Info 254  [00:58:01.637] -----------------------------------------------
+Info 255  [00:58:02.074] DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 256  [00:58:02.075] Elapsed:: 0.03516700863838196ms DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 257  [00:58:02.075] DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 258  [00:58:02.075] Elapsed:: 0.013585001230239868ms DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 259  [00:58:03.328] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 260  [00:58:03.439] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: true structureIsReused:: SafeModules Elapsed: 111.07448899745941ms
+Info 261  [00:58:03.439] Different program with same set of files
+Info 262  [00:58:03.442] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 263  [00:58:03.616] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 35 structureChanged: true structureIsReused:: SafeModules Elapsed: 174.88967299461365ms
+Info 264  [00:58:03.617] Different program with same set of files
+Info 265  [00:58:05.580] Before ensureProjectForOpenFiles:
+Info 266  [00:58:05.581] After ensureProjectForOpenFiles:
+Info 267  [00:58:05.581] got projects updated in background, updating diagnostics for /tmp/ic_bare_react_app/package.json,/tmp/ic_bare_react_app/webpack.config.js
+Info 268  [00:58:47.678] FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 269  [00:58:47.678] Elapsed:: 0.2044059932231903ms FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 270  [00:58:48.743] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 271  [00:58:48.814] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: true structureIsReused:: Not Elapsed: 71.20643198490143ms
+Info 272  [00:58:48.815] Project '/dev/null/inferredProject1*' (Inferred)
+Info 273  [00:58:48.815] 	Files (1290)
+
+Info 274  [00:58:48.815] -----------------------------------------------
+Info 275  [00:58:48.818] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 276  [00:58:48.870] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 36 structureChanged: true structureIsReused:: Not Elapsed: 51.92626601457596ms
+Info 277  [00:58:48.870] Project '/dev/null/inferredProject2*' (Inferred)
+Info 278  [00:58:48.870] 	Files (1293)
+
+Info 279  [00:58:48.870] -----------------------------------------------
+Info 280  [00:58:48.870] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 281  [00:58:48.870] 	Files (7)
+
+Info 282  [00:58:48.870] -----------------------------------------------
+Info 283  [00:58:49.449] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 284  [00:58:49.450] Elapsed:: 0.9412859976291656ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 285  [00:58:49.450] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 286  [00:58:49.450] Elapsed:: 0.028052985668182373ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 287  [00:58:49.450] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 288  [00:58:49.450] Elapsed:: 0.009187012910842896ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 289  [00:58:49.450] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 290  [00:58:49.450] Elapsed:: 0.008126020431518555ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 291  [00:58:49.450] DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 292  [00:58:49.450] Elapsed:: 0.00874599814414978ms DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 293  [00:58:49.450] DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 294  [00:58:49.451] Elapsed:: 0.0051499903202056885ms DirectoryWatcher:: Triggered with /home/faraz/.cache/typescript/4.5/node_modules :: WatchInfo: /home/faraz/.cache/typescript/4.5/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 295  [00:58:50.701] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 296  [00:58:50.705] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 5 structureChanged: true structureIsReused:: SafeModules Elapsed: 3.6620609760284424ms
+Info 297  [00:58:50.705] Different program with same set of files
+Info 298  [00:58:50.705] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 299  [00:58:50.844] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: true structureIsReused:: SafeModules Elapsed: 138.7326059937477ms
+Info 300  [00:58:50.844] Project '/dev/null/inferredProject1*' (Inferred)
+Info 301  [00:58:50.844] 	Files (1289)
+
+Info 302  [00:58:50.844] -----------------------------------------------
+Info 303  [00:58:50.846] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 304  [00:58:50.981] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 37 structureChanged: true structureIsReused:: SafeModules Elapsed: 135.12619000673294ms
+Info 305  [00:58:50.982] Project '/dev/null/inferredProject2*' (Inferred)
+Info 306  [00:58:50.982] 	Files (1292)
+
+Info 307  [00:58:50.982] -----------------------------------------------
+Info 308  [00:58:50.982] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 309  [00:58:50.982] 	Files (7)
+
+Info 310  [00:58:50.982] -----------------------------------------------
+Info 311  [00:58:52.958] Before ensureProjectForOpenFiles:
+Info 312  [00:58:52.958] After ensureProjectForOpenFiles:
+Info 313  [00:58:52.958] got projects updated in background, updating diagnostics for /tmp/ic_bare_react_app/package.json,/tmp/ic_bare_react_app/webpack.config.js
+Info 314  [00:59:59.742] FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 315  [00:59:59.742] Elapsed:: 0.16167598962783813ms FileWatcher:: Triggered with /tmp/ic_bare_react_app/package.json 1:: WatchInfo: /tmp/ic_bare_react_app/package.json 250 undefined WatchType: package.json file
+Info 316  [00:59:59.959] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 317  [01:00:00.050] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: true structureIsReused:: Not Elapsed: 90.99924197793007ms
+Info 318  [01:00:00.050] Project '/dev/null/inferredProject1*' (Inferred)
+Info 319  [01:00:00.050] 	Files (1315)
+
+Info 320  [01:00:00.050] -----------------------------------------------
+Info 321  [01:00:00.052] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 322  [01:00:00.123] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 38 structureChanged: true structureIsReused:: Not Elapsed: 71.17705902457237ms
+Info 323  [01:00:00.123] Project '/dev/null/inferredProject2*' (Inferred)
+Info 324  [01:00:00.123] 	Files (1318)
+
+Info 325  [01:00:00.123] -----------------------------------------------
+Info 326  [01:00:00.123] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 327  [01:00:00.123] 	Files (7)
+
+Info 328  [01:00:00.123] -----------------------------------------------
+Info 329  [01:00:00.467] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 330  [01:00:00.468] Elapsed:: 1.3341569900512695ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 331  [01:00:00.468] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 332  [01:00:00.468] Elapsed:: 0.03117901086807251ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 333  [01:00:00.468] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 334  [01:00:00.468] Elapsed:: 0.013074994087219238ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 335  [01:00:00.468] DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 336  [01:00:00.468] Elapsed:: 0.007995009422302246ms DirectoryWatcher:: Triggered with /tmp/ic_bare_react_app/node_modules :: WatchInfo: /tmp/ic_bare_react_app/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 337  [01:00:01.722] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 338  [01:00:01.809] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: true structureIsReused:: SafeModules Elapsed: 87.40413799881935ms
+Info 339  [01:00:01.809] Project '/dev/null/inferredProject1*' (Inferred)
+Info 340  [01:00:01.809] 	Files (1314)
+
+Info 341  [01:00:01.809] -----------------------------------------------
+Info 342  [01:00:01.811] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 343  [01:00:01.884] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 39 structureChanged: true structureIsReused:: SafeModules Elapsed: 72.72717300057411ms
+Info 344  [01:00:01.884] Project '/dev/null/inferredProject2*' (Inferred)
+Info 345  [01:00:01.884] 	Files (1317)
+
+Info 346  [01:00:01.884] -----------------------------------------------
+Info 347  [01:00:01.884] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 348  [01:00:01.884] 	Files (7)
+
+Info 349  [01:00:01.884] -----------------------------------------------
+Info 350  [01:00:01.885] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 351  [01:00:01.891] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 6 structureChanged: true structureIsReused:: SafeModules Elapsed: 5.734970986843109ms
+Info 352  [01:00:01.891] Different program with same set of files
+Info 353  [01:00:03.974] Before ensureProjectForOpenFiles:
+Info 354  [01:00:03.974] After ensureProjectForOpenFiles:
+Info 355  [01:00:03.974] got projects updated in background, updating diagnostics for /tmp/ic_bare_react_app/package.json,/tmp/ic_bare_react_app/webpack.config.js

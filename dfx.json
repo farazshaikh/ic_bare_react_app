@@ -12,7 +12,6 @@
         "entrypoint": "src/ic_bare_react_app_assets/src/index.html"
       },
       "source": [
-        "src/ic_bare_react_app_assets/assets",
         "dist/ic_bare_react_app_assets/"
       ],
       "type": "assets"

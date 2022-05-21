@@ -1,27 +1,37 @@
 # ic_bare_react_app
 
-## Install React dependancy.
+## Install React dependency.
 
-npm react -i react react-dom
+npm i react react-dom
 
-## Install Dev dependancies (Webpack, css, sass, babel presets and webpack loaders)
+## Install Dev dependencies (Webpack, css, sass, babel presets and webpack loaders)
 
 Install transpilers for react
-npm i -D @babel/core @babel/preset-env @babel/preset-react 
+npm i -D @babel/core @babel/preset-env @babel/preset-react
 
 Install loader for babel
-npm i -D @babel-loader file-loader css-loader sass-loader 
+npm i -D babel-loader file-loader css-loader sass-loader sass
 
 Install webpack
 npm i -D webpack webpack-cli webpack-dev-server
 
-## Configure .babel.rc
+## Configure .babel.rc or babel.config.js
 
 ```
 {
     "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
 ```
+
+```
+module.exports = {
+    presets:[
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
+```
+
 
 ## Configure webpack.config.js
 
